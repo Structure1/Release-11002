@@ -7,3 +7,5 @@ C:\Users\AS\Desktop\Application1\obj\Debug\Application1.pdb
 C:\Users\AS\Desktop\Application1\obj\Debug\Application1.Form1.resources
 F:\ReleaseServer\Again\10000\Application1\obj\Debug\Application1.exe
 F:\ReleaseServer\Again\10000\Application1\obj\Debug\Application1.pdb
+F:\ReleaseServer\Again\11000\11003\Application1\obj\Debug\Application1.exe
+F:\ReleaseServer\Again\11000\11003\Application1\obj\Debug\Application1.pdb
